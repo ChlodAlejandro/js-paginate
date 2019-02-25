@@ -1,0 +1,26 @@
+{
+  "name": "js-paginate",
+  "version": "1.0.0",
+  "description": "Split an object into an array of pages.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ChlodAlejandro/js-paginate.git"
+  },
+  "keywords": [
+    "paginate",
+    "page",
+    "pages",
+    "split",
+    "chunks"
+  ],
+  "author": "ChlodAlejandro",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/ChlodAlejandro/js-paginate/issues"
+  },
+  "homepage": "https://github.com/ChlodAlejandro/js-paginate#readme"
+}
