@@ -1,5 +1,5 @@
 {
-  "name": "js-paginate",
+  "name": "@chlodalejandro/js-paginate",
   "version": "1.0.0",
   "description": "Split an object into an array of pages.",
   "main": "index.js",

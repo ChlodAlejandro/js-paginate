@@ -1,9 +1,9 @@
-# js-paginate
+# @chlodalejandro/js-paginate
 Split an object into an array of pages.
 
 # Usage
 ```
-var Paginate = require('js-paginate');
+var Paginate = require('@chlodalejandro/js-paginate');
 
 var objects = {"a": "b", "c": "d", "e": "f", "g": "h", "i": "j", "k": "l", "m": "n", "o": "p", "q": "r", "s": "t"};
 
@@ -16,7 +16,7 @@ console.log(Paginate(objects, 3));
 console.log(Paginate({objects}, 10));
 // [{"a": "b", "c": "d", "e": "f", "g": "h", "i": "j", "k": "l", "m": "n", "o": "p", "q": "r", "s": "t"}]
 
-console.log(Paginate({"a": "b", "c": "d", "e": "f"}}, 10));
+console.log(Paginate({"a": "b", "c": "d", "e": "f"}, 10));
 // [{"a": "b", "c": "d", "e": "f"}]
 
 console.log(0);
