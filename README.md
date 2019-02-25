@@ -1,9 +1,9 @@
-# @chlodalejandro/js-paginate
+# object-pager
 Split an object into an array of pages.
 
 # Usage
 ```
-var Paginate = require('@chlodalejandro/js-paginate');
+var Paginate = require('object-pager');
 
 var objects = {"a": "b", "c": "d", "e": "f", "g": "h", "i": "j", "k": "l", "m": "n", "o": "p", "q": "r", "s": "t"};
 

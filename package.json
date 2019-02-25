@@ -1,5 +1,5 @@
 {
-  "name": "@chlodalejandro/js-paginate",
+  "name": "object-pager",
   "version": "1.0.0",
   "description": "Split an object into an array of pages.",
   "main": "index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ChlodAlejandro/js-paginate.git"
+    "url": "git+https://github.com/ChlodAlejandro/object-pager.git"
   },
   "keywords": [
     "paginate",
@@ -20,7 +20,7 @@
   "author": "ChlodAlejandro",
   "license": "GPL-3.0",
   "bugs": {
-    "url": "https://github.com/ChlodAlejandro/js-paginate/issues"
+    "url": "https://github.com/ChlodAlejandro/object-pager/issues"
   },
-  "homepage": "https://github.com/ChlodAlejandro/js-paginate#readme"
+  "homepage": "https://github.com/ChlodAlejandro/object-pager#readme"
 }
